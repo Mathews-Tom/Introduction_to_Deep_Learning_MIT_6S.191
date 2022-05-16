@@ -15,3 +15,5 @@ All videos are available through this YouT  ube playlist. [MIT 6.S191: Introduct
 
 - [Intro to Deep Learning](Week_1/1-Intro_to_Deep_Learning)
 - [Deep Sequence Modeling](Week_1/2-Deep_Sequence_Modeling)
+- [Deep Computer Vision](Week_2/1-Deep_Computer_Vision)
+- [Deep Generative Modeling](Week_2/2-Deep_Generative_Modeling/)
