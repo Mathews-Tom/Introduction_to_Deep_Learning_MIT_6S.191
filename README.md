@@ -9,7 +9,7 @@
 
 This repository is based on the repo [introtodeeplearning](https://github.com/aamini/introtodeeplearning/). The repo includes my personal notes, slides from the course and my lab work.
 
-All videos are available through this YouT  ube playlist. [MIT 6.S191: Introduction to Deep Learning](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+All videos are available through this YouTube playlist. [MIT 6.S191: Introduction to Deep Learning](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## Lectures
 
