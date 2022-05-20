@@ -17,3 +17,5 @@ All videos are available through this YouTube playlist. [MIT 6.S191: Introductio
 - [Deep Sequence Modeling](Week_1/2-Deep_Sequence_Modeling)
 - [Deep Computer Vision](Week_2/1-Deep_Computer_Vision)
 - [Deep Generative Modeling](Week_2/2-Deep_Generative_Modeling/)
+- [Deep Reinforcement Learning](Week_3/1-Deep_Reinforcement_Learning)
+- [Limitations and New Frontiers](Week_3/2-Limitations_and_New_Frontiers)
